@@ -39,7 +39,7 @@ Each folder contains multiple projects with their respective documentation and s
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/multi-project-repo.git
+   git clone https://github.com/saifshaikh01/Projects.git
    ```
 2. **Navigate to the desired project**
    ```bash
@@ -78,9 +78,9 @@ This repository is licensed under the **MIT License**. Feel free to use, modify,
 
 ## 📬 Contact
 
-📧 **Email:** your-email@example.com  
+📧 **Email:** mr.saifshaikh01@gmail.com 
 🔗 **GitHub:** [your-github-profile](https://github.com/saifshaikh01)  
-🔗 **Portfolio:** [your-portfolio-link](https://your-portfolio.com)  
+🔗 **Portfolio:** [your-portfolio-link](https://portfoliocs.com)  
 
 ---
 
