@@ -47,7 +47,7 @@ This project consists of a single-page calculator with its styles and scripts or
 ## 🎬 Demo
 
 Check out the live demo of the **Animated Calculator**:  
-🔗 [Live Demo](saifs-calculator.vercel.app)
+🔗 [Live Demo](https://saifs-calculator.vercel.app/)
 
 ---
 
